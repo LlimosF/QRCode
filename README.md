@@ -1,2 +1,1 @@
-# QRCode
-QRCode
+https://florianllimos.fr/qrcode/
